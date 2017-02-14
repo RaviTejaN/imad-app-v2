@@ -19,4 +19,8 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.image{
+    position:absolute;
+    left:1000px;
+    top:100px;
+}
